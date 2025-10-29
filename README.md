@@ -1,5 +1,5 @@
 ## 🍜 Danny's Diner - SQL Case Study
-<img width="1443" height="814" alt="image" src="https://github.com/user-attachments/assets/6281cf1b-9c3a-43d0-96b4-ec56c629bd5e" />
+<img width="1536" height="1024" alt="file_000000005b1c62069b41fc9246b42465" src="https://github.com/user-attachments/assets/c2dfbda1-1f2f-426d-8d48-2f85d76e6e6c" />
 * This repository contains SQL-based insights and analysis for Danny’s Diner, aiming to understand customer behavior, menu popularity, and membership impacts.
 
 ## ⚠️ Problem Statement
