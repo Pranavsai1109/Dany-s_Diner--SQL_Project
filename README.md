@@ -1,5 +1,5 @@
 ## 🍜 Danny's Diner - SQL Case Study
-![]((https://github.com/Pranavsai1109/Dany-s_Diner--SQL_Project/edit/main/README.md))
+![]((https://github.com/Pranavsai1109/Dany-s_Diner--SQL_Project))
 * This repository contains SQL-based insights and analysis for Danny’s Diner, aiming to understand customer behavior, menu popularity, and membership impacts.
 
 ## ⚠️ Problem Statement
